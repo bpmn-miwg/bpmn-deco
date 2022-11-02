@@ -1622,12 +1622,7 @@
                 <di:waypoint x="1429.0" y="497.0"/>
                 <bpmndi:BPMNLabel/>
             </bpmndi:BPMNEdge>
-            <bpmndi:BPMNEdge bpmnElement="_09e7cb23-4a1b-4165-b93a-cf635c223ee5" messageVisibleKind="initiating" id="E1373638081031__09e7cb23-4a1b-4165-b93a-cf635c223ee5">
-                <di:extension>
-                    <deco:BPMNEnvelopeDecorator>
-                        <dc:Bounds height="12" width="17" x="209" y="336.0"/>
-                    </deco:BPMNEnvelopeDecorator>
-                </di:extension>
+            <bpmndi:BPMNEdge bpmnElement="_09e7cb23-4a1b-4165-b93a-cf635c223ee5" messageVisibleKind="initiating" id="E1373638081031__09e7cb23-4a1b-4165-b93a-cf635c223ee5" deco:height="12" deco:width="17" deco:x="209" deco:y="336.0">
                 <di:waypoint x="305.0" y="188.0"/>
                 <di:waypoint x="305.0" y="342.0"/>
                 <di:waypoint x="130.0" y="342.0"/>
