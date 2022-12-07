@@ -1,6 +1,14 @@
 BPMN 2.0 Extension for Envelope Decorator Bounds
 ================================================
 
+link:bpmn-envelope-decorator-bounds.xsd[XML Schema including full Documentation]
+
+This XML schema defines and documents BPMN 2.0 extension
+attributes to overcome limitations of BPMN Diagram Interchange.
+
+In particular, the attribute defined in BPMNEnvelopeDecorator allows to interchange the position and dimensions
+of the envelope decorator on a BPMN Message Flow.
+
 With this extension the Envelope Decorator can be freely positioned
 along the Message Flow and not just in the middle of it.
 
